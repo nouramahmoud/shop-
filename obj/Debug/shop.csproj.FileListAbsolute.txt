@@ -1,0 +1,7 @@
+D:\assignment3\shop\shop\bin\Debug\shop.exe.config
+D:\assignment3\shop\shop\bin\Debug\shop.exe
+D:\assignment3\shop\shop\bin\Debug\shop.pdb
+D:\assignment3\shop\shop\obj\Debug\shop.csprojAssemblyReference.cache
+D:\assignment3\shop\shop\obj\Debug\shop.csproj.CoreCompileInputs.cache
+D:\assignment3\shop\shop\obj\Debug\shop.exe
+D:\assignment3\shop\shop\obj\Debug\shop.pdb
